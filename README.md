@@ -37,7 +37,7 @@ Copy `SKILL.md` into either:
 - `~/.config/agents/skills/exa-web-search/SKILL.md` (global)
 - `.agents/skills/exa-web-search/SKILL.md` (project)
 
-## Setup
+## Setup (For human)
 
 1. Get your API key at https://dashboard.exa.ai/api-keys
 2. Add to your shell profile (`~/.zshrc` or `~/.bashrc`):
